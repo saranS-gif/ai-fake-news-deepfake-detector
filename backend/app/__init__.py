@@ -1,0 +1,1 @@
+"""AI Fake News & Deepfake Detector backend package."""
